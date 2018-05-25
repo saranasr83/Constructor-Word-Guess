@@ -13,7 +13,7 @@ function Letter(targetChar) {
         if (correctGuessedLetter) {
             return targetChar
         } else {
-            return "_"
+            return " _ "
         }
     }
 
